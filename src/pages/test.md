@@ -41,3 +41,4 @@ This is super cool
     </tr>
   </tfoot>
 </table>
+
