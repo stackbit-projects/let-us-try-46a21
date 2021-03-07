@@ -3,8 +3,8 @@ title: How to make a website with Stackbit
 subtitle: It is awesome
 image_alt: YEA
 seo:
-  title: ''
-  description: ''
+  title: 'How to make a website with Stackbit'
+  description: 'How to make a website with Stackbit'
   robots: []
   extra: []
   type: stackbit_page_meta
