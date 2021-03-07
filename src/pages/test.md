@@ -12,7 +12,7 @@ template: page
 ---
 ## Lorem ipsum
 
-Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+This is super cool
 
 - Lorem ipsum
 - dolor sit amet
