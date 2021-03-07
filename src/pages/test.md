@@ -1,6 +1,6 @@
 ---
 title: How to make a website with Stackbit
-subtitle: lorem-ipsum
+subtitle: It is awesome
 image_alt: lorem-ipsum
 seo:
   title: ''
