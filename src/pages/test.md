@@ -1,5 +1,5 @@
 ---
-title: lorem-ipsum
+title: How to make a website with Stackbit
 subtitle: lorem-ipsum
 image_alt: lorem-ipsum
 seo:
