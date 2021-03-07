@@ -1,7 +1,7 @@
 ---
 title: How to make a website with Stackbit
 subtitle: It is awesome
-image_alt: lorem-ipsum
+image_alt: YEA
 seo:
   title: ''
   description: ''
